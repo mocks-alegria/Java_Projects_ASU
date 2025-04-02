@@ -1,0 +1,13 @@
+=================================
+= Text Analysis for SampleTextForTesting.txt
+= ACO102 - Maximiliano Alegria 
+=================================
+
+	Whitespace       13   0.00%
+	Digits            0   0.00%
+	Uppercase         1   0.00%
+	Lowercase        75   0.00%
+	Other             5   0.00%
+	------------ ------
+
+	Total            94
